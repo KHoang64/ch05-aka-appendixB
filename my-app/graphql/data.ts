@@ -19,5 +19,12 @@ export const db = [
         tempC: "20C",
         tempF: "68F",
         friends: ["96815", "96826"]
+    },
+    {
+        zip: "44278",
+        weather: "bro lives in ohio",
+        tempC: "50000BC",
+        tempF: "69FF",
+        friends: ["96815", "96826"]
     }
 ];
